@@ -1,0 +1,6 @@
+model_checkpoint_path: "i1700.ckpt"
+all_model_checkpoint_paths: "i1632.ckpt"
+all_model_checkpoint_paths: "i1649.ckpt"
+all_model_checkpoint_paths: "i1666.ckpt"
+all_model_checkpoint_paths: "i1683.ckpt"
+all_model_checkpoint_paths: "i1700.ckpt"
